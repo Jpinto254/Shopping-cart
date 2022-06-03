@@ -1,2 +1,2 @@
-# Shopping-cart
-Shopping cart
+# Carrito de compras
+Carrito de compras
